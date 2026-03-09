@@ -1,0 +1,17 @@
+﻿  Artifact.cpp
+C:\C_C++_C#_Programs\聖遺物シミュレーター\Artifact\Artifact.h(138,9): warning C4099: 'Artifact::StatusData': タイプ名は最初 'class' として使われていましたが 'struct' として使われています。
+  (ソース ファイル '../../../C_C++_C#_Programs/聖遺物シミュレーター/Artifact/Artifact.cpp' をコンパイルしています)
+      C:\C_C++_C(138,9):
+      'Artifact::StatusData' の宣言を確認してください
+  
+  main.cpp
+C:\C_C++_C#_Programs\聖遺物シミュレーター\Artifact\Artifact.h(138,9): warning C4099: 'Artifact::StatusData': タイプ名は最初 'class' として使われていましたが 'struct' として使われています。
+  (ソース ファイル '../../../C_C++_C#_Programs/聖遺物シミュレーター/Artifact/main.cpp' をコンパイルしています)
+      C:\C_C++_C(138,9):
+      'Artifact::StatusData' の宣言を確認してください
+  
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 673 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Artifact.vcxproj -> C:\C_C++_C#_Programs\聖遺物シミュレーター\x64\Release\Artifact.exe
